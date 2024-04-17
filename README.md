@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sai Teja K
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development, Python Programming
 - 🌱 I’m currently pursuing MCA.
-- 💞️ I’m looking to collaborate on Internships of Web Development.
+- 💞️ I’m looking to collaborate on Internships of Web Development, Python Programming.
 - 📫 Reach me at saitejakandi2001@gmail.com
 
 <!---
