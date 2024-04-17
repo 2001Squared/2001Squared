@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Development.
 - 🌱 I’m currently pursuing MCA.
 - 💞️ I’m looking to collaborate on Internships of Web Development.
-- 📫 Reach me at saiteja.code@gmail.com
+- 📫 Reach me at saitejakandi2001@gmail.com
 
 <!---
 2001Squared/2001Squared is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
